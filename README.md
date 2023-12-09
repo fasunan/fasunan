@@ -1,5 +1,4 @@
-![forntend](https://github.com/fasunan/fasunan/assets/138504309/8650ab25-706e-498f-b173-1f45aae8715a)![forntend](https://github.com/fasunan/fasunan/assets/138504309/dff6b4a1-628b-4b39-82eb-f4f46fad502c)
-
+![forntend](https://github.com/fasunan/fasunan/assets/138504309/8650ab25-706e-498f-b173-1f45aae8715a)
 
 <h1 align="center" style="font-size: 2em;"> Hi, I'm <b>MD. FAHAD AL SUNAN</b></h1>
 

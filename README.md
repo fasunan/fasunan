@@ -2,23 +2,33 @@
 
 
 
-👋 Hi, I'm `MD. FAHAD AL SUNAN`, a MERN-Stack Developer with a passion for crafting dynamic web applications. I specialize in using JavaScript and React to create intuitive and efficient user interfaces.
+<h1 align="center" style="font-size: 2em;"> Hi, I'm <b>MD. FAHAD AL SUNAN</b></h1>
 
-📫 **Connect with me:**
+<p align="center">MERN-Stack Developer | Crafting dynamic web applications with JavaScript and React.</p>
+<p align="center">Excited about building the next generation of web applications and always open to collaborative opportunities!</p>
 
-- `[Email]` 📧 fsunan@gmail.com
-- `[LinkedIn]` https://www.linkedin.com/in/fahad-al-sunan-96475424b/
+## 📫 **Connect with me:**
 
-Excited about building the next generation of web applications and always open to collaborative opportunities!
+<div align="center">
+  <a href="mailto:fsunan@gmail.com">📧 Email</a> |
+  <a href="https://www.linkedin.com/in/fahad-al-sunan-96475424b/">LinkedIn</a>
+</div>
 
-🚀 **Skills:**
+## My Projects
+
+- [Project 1](link-to-project-1): Short description or key features.
+- [Project 2](link-to-project-2): Short description or key features.
+- [Project 3](link-to-project-2): Short description or key features.
+
+
+## 🚀 **Skills:**
 
 - Frontend: React, JavaScript, HTML, CSS, Tailwind CSS
 - Backend: Node.js, Express.js, next.js
 - Database: MongoDB
 - Version Control: Git
 
-🚀 **Technologies and tools**
+## 🚀 **Technologies and tools**
 
 [![My Skills](https://skillicons.dev/icons?i=js,tailwind,html,css,react,vue,nextjs,nodejs,netlify,mongodb)](https://skillicons.dev)
 
@@ -30,7 +40,7 @@ Excited about building the next generation of web applications and always open t
 - working on a project with Next.js
 - Also interested in Python
 
-📊 **Github Stats**
+## 📊 **Github Stats**
 
 ![GitHub Stats Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fasunan&theme=2077)
 
@@ -38,18 +48,5 @@ Excited about building the next generation of web applications and always open t
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fasunan&theme=neon&border_radius=4.3&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-<!--
-**fasunan/fasunan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 

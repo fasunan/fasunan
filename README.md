@@ -14,11 +14,11 @@
   <a href="https://www.linkedin.com/in/fahad-al-sunan-96475424b/">LinkedIn</a>
 </div>
 
-## My Projects
+## 🌐 My Projects
 
-- [Project 1]([link-to-project-1](https://mellifluous-speculoos-ebe7ec.netlify.app/))
-- [Project 2]([link-to-project-2](https://sage-lolly-8dc3c5.netlify.app/))
-- [Project 3]([link-to-project-2](https://lucent-starburst-c5b65e.netlify.app/))
+- 🚀 **Project 1:** [Link to Project 1](https://mellifluous-speculoos-ebe7ec.netlify.app/)
+- 🌐 **Project 2:** [Link to Project 2](https://sage-lolly-8dc3c5.netlify.app/)
+- 🔧 **Project 3:** [Link to Project 3](https://lucent-starburst-c5b65e.netlify.app/)
 
 
 ## 🚀 **Skills:**

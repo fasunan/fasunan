@@ -14,12 +14,6 @@
   <a href="https://www.linkedin.com/in/fahad-al-sunan-96475424b/">LinkedIn</a>
 </div>
 
-## 🌐 My Projects
-
-- 🚀 **Project 1:** [Link to Project 1](https://mellifluous-speculoos-ebe7ec.netlify.app/)
-- 🌐 **Project 2:** [Link to Project 2](https://sage-lolly-8dc3c5.netlify.app/)
-- 🔧 **Project 3:** [Link to Project 3](https://lucent-starburst-c5b65e.netlify.app/)
-
 
 ## 🚀 **Skills:**
 
@@ -47,6 +41,64 @@
 ![GitHub Commit Stats](https://github-readme-stats.vercel.app/api?username=fasunan&show_icons=true&count_private=true&theme=neon)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fasunan&theme=neon&border_radius=4.3&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+
+## 🌐 My Projects
+
+
+
+📚 **Al-Moun Library**
+
+**Live Link:** [Al-Moun Library](https://sage-lolly-8dc3c5.netlify.app)
+
+Al-Moun Library is not just a collection of books; it's a literary sanctuary designed to enhance the reading experience.
+
+**Key Features:**
+
+🔍 **Library Management:** Discover a vast array of books categorized by genre, author, and title. Effortlessly find your next captivating read.
+
+🔄 **Borrowing Experience:** Enjoy a seamless borrowing system. Registered users can borrow books with easy tracking of issue and return dates, simplifying the lending process.
+
+🔐 **User Authentication:** Your data is valuable. We implement secure user authentication, allowing you to track your borrowing history and manage your profile with peace of mind.
+
+📱 **Responsive Design:** Whether you're on a desktop, tablet, or phone, our website is crafted to provide a seamless experience. Explore the library, borrow books, and engage with content effortlessly from any device.
+
+Visit [Al-Moun Library](https://sage-lolly-8dc3c5.netlify.app) and embark on a journey of discovery, learning, and literary joy.
+---
+
+📦 **Inventory Management System**
+
+Effortless inventory control with a touch of elegance. This system empowers admins and managers, offering a seamless experience from product creation to checkout.
+
+## Key Features:
+
+👤 **Role-Based Authentication:** Admins and managers enjoy secure access tailored to their responsibilities.
+
+🏢 **Shop Management:** Managers can create shops, each with a unique identity and buying limits overseen by the admin.
+
+📝 **Product Lifecycle:** Effortlessly add, update, and sell products, ensuring your inventory is always up-to-date.
+
+🛒 **Intuitive Cart System:** Users can seamlessly navigate their carts, ensuring a smooth checkout process.
+
+💡 **Best-in-Class UI:** A visually stunning dashboard designed for efficiency, making inventory management a pleasure.
+
+💸 **Payment System:** Secure and streamlined payment processing to enhance the user buying experience.
+
+🖼️ **Image Uploading System:** Easily upload and manage product images, adding a visual dimension to your inventory.
+
+Explore the future of inventory control. Elevate your business with our Inventory Management System.
+
+🌐 **Check out my other project: [Fashion House](https://lucent-starburst-c5b65e.netlify.app/)**
+---
+
+
+🌐 **Tech-Land E-commerce Platform**
+
+**Live Link:** [Tech-Land](https://mellifluous-speculoos-ebe7ec.netlify.app/)
+
+Tech-Land is a sleek and user-friendly e-commerce platform offering a diverse range of products, from electronics to gadgets. With easy navigation, a seamless shopping cart experience, and personalized user profiles, it provides a modern and enjoyable shopping journey. Explore the latest products, read customer reviews, and enjoy the convenience of an all-in-one electronics marketplace. Visit [Tech-Land](https://mellifluous-speculoos-ebe7ec.netlify.app/) and elevate your online shopping experience!
+
+---
 
 
 

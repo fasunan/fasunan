@@ -1,10 +1,9 @@
-![backcoverimage](https://github.com/fasunan/fasunan/assets/138504309/d836e19d-85d1-4f1c-bb07-f4c8bc949c15)
-
+![forntend](https://github.com/fasunan/fasunan/assets/138504309/8650ab25-706e-498f-b173-1f45aae8715a)![forntend](https://github.com/fasunan/fasunan/assets/138504309/dff6b4a1-628b-4b39-82eb-f4f46fad502c)
 
 
 <h1 align="center" style="font-size: 2em;"> Hi, I'm <b>MD. FAHAD AL SUNAN</b></h1>
 
-<p align="center">MERN-Stack Developer | Crafting dynamic web applications with JavaScript and React.</p>
+<p align="center"> Frontend Developer | Crafting dynamic web applications with JavaScript,  React,  HTML, and CSS. On the backend, I navigate the Node.js and Express.js and  MongoDB for efficient data storage.</p>
 <p align="center">Excited about building the next generation of web applications and always open to collaborative opportunities!</p>
 
 ## 📫 **Connect with me:**
